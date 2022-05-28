@@ -10,3 +10,4 @@ document.getElementById("app").innerHTML = `
 `;
 
 console.log("Test Test Test");
+console.log("Test2 Test2 Test2");
